@@ -9,12 +9,11 @@ To play the game, simply open the `index.html` file in your web browser. You'll 
 ## Features
 
 - Single-player mode against the computer.
-- Play with Rebot.
 - Simple and intuitive user interface.
 
 ## Feedback
 
-Feel free to play the game and share your feedback or suggestions. You can reach out to me via email at naveed@example.com or create an issue here on GitHub.
+Feel free to play the game and share your feedback or suggestions. You can reach out to me via email at naveedulhaq.mymail@gmail.com or create an issue here on GitHub.
 
 Enjoy the game!
 
